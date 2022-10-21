@@ -4,4 +4,4 @@ Documented requests of my service in postmаn - https://www.postman.com/dark-spa
 
 This API allows to create database with users. You can delete user by id, show all of users and add new users.
 
-For deploying the project: Download ZIP -> Open a folder using any Java IDE -> Add Maven support to an existing project (https://www.jetbrains.com/help/idea/convert-a-regular-project-into-a-maven-project.html)
+For deploying the project: Download ZIP -> Open a folder using any Java IDE -> Add Maven support to an existing project (for example https://www.jetbrains.com/help/idea/convert-a-regular-project-into-a-maven-project.html)
